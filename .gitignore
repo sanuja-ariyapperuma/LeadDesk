@@ -1,0 +1,17 @@
+# Composer
+vendor/
+
+# PHPStorm
+.idea/
+/*.iml
+
+# Log files
+*.log
+
+# Temp files
+*.swp
+.DS_Store
+
+# Cache files
+.cache/
+*.cache
